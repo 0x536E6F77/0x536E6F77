@@ -6,3 +6,6 @@
 
 ![Top_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0X536E6F77&show_icons=true&theme=radical)
 
+<img src="https://cdn-icons-png.flaticon.com/16/1378/1378628.png">My Badges
+
+<img src="https://images.credly.com/size/120x120/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png">
